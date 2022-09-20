@@ -2,7 +2,8 @@
 Oi, eu sou o Matheus Muller
 
 ## Hobbies
-- Assistir/Praticar Esportes
+- Assistir/Praticar esportes
+- Asistir series/filmes
 - Jogar video-game
 - Ler
 
