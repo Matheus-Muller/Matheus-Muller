@@ -1,6 +1,8 @@
 # Bem vindo(a) ao meu perfil
 Oi, eu sou o Matheus Muller
 
+Moro em Campina Grande - PB
+
 ## Hobbies
 - Assistir/Praticar esportes
 - Asistir series/filmes
