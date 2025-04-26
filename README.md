@@ -1,7 +1,7 @@
 # 🛸 Matheus Müller | Data Scientist
 
 Hi there! 👋  
-I'm **Matheus**, as known as **Müller**, a passionate **Data Scientist** who loves solving problems with **data**, **machine learning**, and **creative thinking**.  
+I'm **Matheus**, also known as **Müller**, a passionate **Data Scientist** who loves solving problems with **data**, **machine learning**, and **creative thinking**.  
 Currently sharpening my skills in **Python**, **SQL**, **Machine Learning**, and **Data Visualization**.
 
 ---
