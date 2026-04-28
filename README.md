@@ -1,7 +1,7 @@
-# 🛸 Matheus Müller | Data Scientist
+# 🛸 Matheus Müller
 
 Hi there! 👋  
-I'm **Matheus**, also known as **Müller**, a passionate **Data Scientist** who loves solving problems with **data**, **machine learning**, and **creative thinking**.  
+I'm **Matheus**, a driven **engineer** who loves solving problems with **data** and **creative thinking**.  
 Currently sharpening my skills in **Python**, **SQL**, **Machine Learning**, and **Data Visualization**.
 
 ---
@@ -11,7 +11,7 @@ Currently sharpening my skills in **Python**, **SQL**, **Machine Learning**, and
 - **Languages**: Python | SQL 
 - **Data Science**: Pandas | NumPy | Scikit-learn | TensorFlow | Keras
 - **Visualization**: Matplotlib | Seaborn | Plotly | Power BI
-- **Tools**: Git & GitHub | Jupyter | VSCode | Streamlit
+- **Tools**: Git & GitHub | Jupyter | VSCode | Dash | AI Agents
 - **Other**: APIs | Web Scraping
 
 ---
@@ -34,7 +34,7 @@ Currently sharpening my skills in **Python**, **SQL**, **Machine Learning**, and
 ## 🎓 Education
 
 - **Bachelor's Degree in Electrical Engineering**  
-  Federal University of Campina Grande (UFCG) — *Expected Graduation: [2025]* 
+  Federal University of Campina Grande (UFCG)
 
 ---
 
